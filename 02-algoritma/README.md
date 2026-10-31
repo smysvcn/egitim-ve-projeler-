@@ -45,3 +45,8 @@ Bu bölümde temel algoritmik düşünme ve problem çözme kapsamında Flow Cha
 >
 > ### Akış Şeması 12
 ![Akış Şeması 12](flowchart-12.png)
+
+### Akış Şeması 13
+![Akış Şeması 13](flowchart-13.png)
+> **Kaynak Dosya:** [flowchart-13.fpp](flowchart-13.fpp)
+> 
