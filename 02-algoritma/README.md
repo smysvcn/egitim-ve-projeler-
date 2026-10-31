@@ -1,3 +1,5 @@
+
+
 # 02 - Algoritma Eğitimi
 
 Bu bölümde temel algoritmik düşünme ve problem çözme kapsamında Flow Chart uygulaması ile hazırlanan akış şemaları ve proje kaynak dosyaları yer almaktadır.
@@ -7,17 +9,22 @@ Bu bölümde temel algoritmik düşünme ve problem çözme kapsamında Flow Cha
 ### Akış Şeması 1
 ![Akış Şeması 1](flowchart-01.png)
 
+
 ### Akış Şeması 2
 ![Akış Şeması 2](flowchart-02.png)
+> **Kaynak Dosya:** [flowchart-02.fpp](flowchart-02.fpp)
 
 ### Akış Şeması 3
 ![Akış Şeması 3](flowchart-03.png)
+> **Kaynak Dosya:** [flowchart-03.fpp](flowchart-03.fpp)
 
 ### Akış Şeması 4
 ![Akış Şeması 4](flowchart-04.png)
+> **Kaynak Dosya:** [flowchart-04.fpp](flowchart-04.fpp)
 
 ### Akış Şeması 5
 ![Akış Şeması 5](flowchart-05.png)
+> **Kaynak Dosya:** [flowchart-05.fpp](flowchart-05.fpp)
 
 ### Akış Şeması 6
 ![Akış Şeması 6](flowchart-06.png)
@@ -35,16 +42,17 @@ Bu bölümde temel algoritmik düşünme ve problem çözme kapsamında Flow Cha
 ![Akış Şeması 9](flowchart-09.png)
 > **Kaynak Dosya:** [flowchart-09.fpp](flowchart-09.fpp)
 
-> ### Akış Şeması 10
+### Akış Şeması 10
 ![Akış Şeması 10](flowchart-10.png)
 > **Kaynak Dosya:** [flowchart-10.fpp](flowchart-10.fpp)
 
->### Akış Şeması 11
+### Akış Şeması 11
 ![Akış Şeması 11](flowchart-11.png)
 > **Kaynak Dosya:** [flowchart-11.fpp](flowchart-11.fpp)
->
-> ### Akış Şeması 12
+
+### Akış Şeması 12
 ![Akış Şeması 12](flowchart-12.png)
+> **Kaynak Dosya:** [flowchart-12.fpp](flowchart-12.fpp)
 
 ### Akış Şeması 13
 ![Akış Şeması 13](flowchart-13.png)
