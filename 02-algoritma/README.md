@@ -8,7 +8,7 @@ Bu bölümde temel algoritmik düşünme ve problem çözme kapsamında Flow Cha
 
 ### Akış Şeması 1
 ![Akış Şeması 1](flowchart-01.png)
-
+> **Kaynak Dosya:** [flowchart-01.fpp](flowchart-01.fpp)
 
 ### Akış Şeması 2
 ![Akış Şeması 2](flowchart-02.png)
