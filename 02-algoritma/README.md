@@ -41,4 +41,7 @@ Bu bölümde temel algoritmik düşünme ve problem çözme kapsamında Flow Cha
 
 >### Akış Şeması 11
 ![Akış Şeması 11](flowchart-11.png)
-> **Kaynak Dosya:** [flowchart-11.fpp](flowchart-11.fpp) 
+> **Kaynak Dosya:** [flowchart-11.fpp](flowchart-11.fpp)
+>
+> ### Akış Şeması 12
+![Akış Şeması 12](flowchart-12.png)
